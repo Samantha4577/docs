@@ -1,3 +1,4 @@
+
 ---
 title: About GitHub for enterprises
 intro: 'Businesses can use {% data variables.product.prodname_dotcom %}''s enterprise products to improve their entire software development lifecycle.'
@@ -30,7 +31,8 @@ For a full list of features available with {% data variables.product.prodname_en
 
 For {% data variables.product.prodname_ghe_cloud %}, you can allow developers to create and manage their own personal accounts, or you can use {% data variables.product.prodname_emus %}, which enables you to create and manage the user accounts for your developers. For more information, see "[AUTOTITLE](/admin/identity-and-access-management/managing-iam-for-your-enterprise/about-authentication-for-your-enterprise)."
 
-You can benefit from the power of {% data variables.product.prodname_dotcom_the_website %} even while using {% data variables.product.prodname_ghe_server %}{% ifversion ghae %} or {% data variables.product.prodname_ghe_managed %}{% endif %} by enabling {% data variables.product.prodname_github_connect %}, which allows you to configure additional features and workflows such as {% data variables.product.prodname_dependabot_alerts %} for insecure dependencies. For more information, see "[About {% data variables.product.prodname_github_connect %}]({% ifversion ghec %}/enterprise-server@latest{% endif %}/admin/configuration/configuring-github-connect/about-github-connect){% ifversion ghes or ghae %}."{% elsif ghec %}" in the {% data variables.product.prodname_ghe_server %} documentation.{% endif %}
+You can benefit from the power of {% data variables.product.prodname_dotcom_the_website %} even while using {% data variables.product.prodname_ghe_server %}{% ifversion ghae %} or {% data variables.product.prodname_ghe_managed %}{% endif %} by enabling {% data variables.product.prodname_github_connect %}, which allows you to configure additional features and workflows such as {% data variables.product.prodname_dependabot_alerts %} for insecure dependencies. For more information, see "[About {% data variables.product.prodname_github_conne[Uploading Phishing Guidance - Stopping the Attack Cycle at Phase One_508c.pdf…]()
+ct %}]({% ifversion ghec %}/enterprise-server@latest{% endif %}/admin/configuration/configuring-github-connect/about-github-connect){% ifversion ghes or ghae %}."{% elsif ghec %}" in the {% data variables.product.prodname_ghe_server %} documentation.{% endif %}
 
 ## Further reading
 
